@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="296.0" prefWidth="483.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.jarmark.gui.InvestorPanel">
+   <children>
+      <Label fx:id="investorName" alignment="CENTER" layoutX="34.0" layoutY="73.0" prefHeight="31.0" prefWidth="420.0" text="investorName">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label fx:id="investorDescription" alignment="CENTER" layoutX="12.0" layoutY="123.0" prefHeight="25.0" prefWidth="460.0" text="investorDescription">
+         <font>
+            <Font size="16.0" />
+         </font></Label>
+   </children>
+</AnchorPane>

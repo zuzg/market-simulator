@@ -1,0 +1,201 @@
+name,id,buyRate,sellRate,validCountries0
+Rupiah,IDR,3.5,2.62,Indonesia
+Pound,SYP,2.05,2.61,Syria
+Dollar,USD,4.11,1.08,Micronesia
+Dong,VND,4.16,2.86,Vietnam
+Ringgit,MYR,3.59,1.58,Malaysia
+Zloty,PLN,3.81,1.57,Poland
+Euro,EUR,2.6,1.93,Portugal
+Peso,COP,4.73,3.79,Colombia
+Rupiah,IDR,4.02,2.86,Indonesia
+Tugrik,MNT,4.96,2.73,Mongolia
+Yuan Renminbi,CNY,3.51,2.99,China
+Yuan Renminbi,CNY,4.48,2.54,China
+Rupiah,IDR,2.38,1.09,Indonesia
+Yuan Renminbi,CNY,4.17,3.8,China
+Rand,ZAR,4.85,2.83,South Africa
+Yuan Renminbi,CNY,2.91,3.35,China
+Yuan Renminbi,CNY,4.21,2.23,China
+Real,BRL,4.61,2.0,Brazil
+Dollar,USD,4.62,1.05,United States
+Peso,PHP,3.28,2.71,Philippines
+Euro,EUR,4.97,2.14,Portugal
+Rand,ZAR,3.75,3.32,South Africa
+Euro,EUR,4.32,2.64,Spain
+Yuan Renminbi,CNY,3.01,3.94,China
+Real,BRL,4.85,3.21,Brazil
+Euro,EUR,2.17,3.87,Estonia
+Yuan Renminbi,CNY,4.63,1.28,China
+Zloty,PLN,2.44,1.08,Poland
+Denar,MKD,3.17,2.7,Macedonia
+Litas,LTL,4.01,2.38,Lithuania
+Rupiah,IDR,3.27,2.39,Indonesia
+Dollar,XCD,3.81,3.97,Grenada
+Ruble,RUB,4.76,3.78,Russia
+Yen,JPY,2.09,3.6,Japan
+Rupiah,IDR,4.4,3.19,Indonesia
+Dinar,RSD,4.27,3.37,Serbia
+Rupiah,IDR,4.23,1.08,Indonesia
+Dinar,BHD,3.7,3.01,Bahrain
+Peso,DOP,2.91,1.94,Dominican Republic
+Zloty,PLN,4.47,1.08,Poland
+Yuan Renminbi,CNY,2.93,3.32,China
+Yuan Renminbi,CNY,3.98,1.77,China
+Yuan Renminbi,CNY,2.7,2.2,China
+Real,BRL,3.17,2.73,Brazil
+Yuan Renminbi,CNY,3.43,1.94,China
+Rial,IRR,3.47,3.61,Iran
+Riels,KHR,3.75,3.05,Cambodia
+Real,BRL,4.22,3.01,Brazil
+Ruble,RUB,2.24,2.99,Russia
+Yen,JPY,4.0,2.39,Japan
+Dirham,MAD,2.47,3.51,Morocco
+Dirham,MAD,2.59,2.79,Morocco
+Yen,JPY,2.81,1.84,Japan
+Rupiah,IDR,2.69,1.53,Indonesia
+Sol,PEN,3.42,2.51,Peru
+Peso,MXN,2.55,2.3,Mexico
+Bolivar,VEF,4.45,1.25,Venezuela
+Euro,EUR,2.07,1.72,Netherlands
+Sol,PEN,4.65,2.06,Peru
+Yuan Renminbi,CNY,4.82,3.47,China
+Baht,THB,3.66,3.76,Thailand
+Yuan Renminbi,CNY,4.25,3.97,China
+Rand,ZAR,4.74,2.47,South Africa
+Peso,CUP,2.23,1.63,Cuba
+Ruble,RUB,4.49,3.12,Russia
+Krona,SEK,3.96,1.74,Sweden
+Euro,EUR,3.33,3.02,Spain
+Rial,IRR,4.11,2.66,Iran
+Zloty,PLN,3.7,2.2,Poland
+Pound,EGP,2.69,1.79,Egypt
+Zloty,PLN,4.27,1.35,Poland
+Dollar,USD,3.23,3.54,United States
+Manat,AZN,3.6,3.12,Azerbaijan
+Dirham,MAD,3.41,1.61,Morocco
+Yuan Renminbi,CNY,2.69,2.92,China
+Rupee,NPR,4.69,3.38,Nepal
+Yuan Renminbi,CNY,2.74,2.75,China
+Yuan Renminbi,CNY,3.19,3.43,China
+Dram,AMD,3.5,1.14,Armenia
+Won,KPW,4.36,2.27,North Korea
+Yuan Renminbi,CNY,4.65,1.34,China
+Sol,PEN,2.2,2.55,Peru
+Hryvnia,UAH,2.42,2.73,Ukraine
+Yuan Renminbi,CNY,3.04,2.7,China
+Krone,DKK,3.74,2.62,Faroe Islands
+Peso,CUP,2.48,1.16,Cuba
+Rupee,NPR,2.31,3.83,Nepal
+Manat,AZN,4.19,1.06,Azerbaijan
+Euro,EUR,4.33,3.26,Greece
+Real,BRL,4.39,2.08,Brazil
+Rupiah,IDR,2.41,2.08,Indonesia
+Rupiah,IDR,2.38,2.72,Indonesia
+Dollar,USD,2.32,1.89,Micronesia
+Koruna,CZK,3.67,1.26,Czech Republic
+Franc,XOF,4.04,1.18,Ivory Coast
+Yen,JPY,4.04,1.21,Japan
+Zloty,PLN,3.5,1.38,Poland
+Yuan Renminbi,CNY,3.34,2.17,China
+Yuan Renminbi,CNY,4.02,1.44,China
+Rupiah,IDR,2.87,1.66,Indonesia
+Ruble,RUB,4.11,1.83,Russia
+Yuan Renminbi,CNY,4.67,2.75,China
+Rupee,PKR,3.05,2.12,Pakistan
+Rupiah,IDR,4.57,2.23,Indonesia
+Peso,PHP,4.2,3.52,Philippines
+Yuan Renminbi,CNY,4.64,2.43,China
+Naira,NGN,2.64,3.88,Nigeria
+Rupiah,IDR,4.48,3.5,Indonesia
+Yuan Renminbi,CNY,3.03,3.29,China
+Dollar,SBD,2.77,1.07,Solomon Islands
+Peso,PHP,2.37,2.04,Philippines
+Yuan Renminbi,CNY,2.63,3.04,China
+Peso,MXN,2.07,2.97,Mexico
+Yuan Renminbi,CNY,3.19,1.38,China
+Yuan Renminbi,CNY,4.8,1.32,China
+Naira,NGN,4.13,1.26,Nigeria
+Rupiah,IDR,3.75,3.67,Indonesia
+Yuan Renminbi,CNY,2.08,1.03,China
+Krona,SEK,3.54,3.81,Sweden
+Euro,EUR,3.73,3.65,France
+Dinar,RSD,2.02,1.67,Serbia
+Euro,EUR,3.35,3.4,Slovenia
+Yuan Renminbi,CNY,2.27,3.96,China
+Shilling,TZS,4.59,1.33,Tanzania
+Peso,PHP,2.11,3.55,Philippines
+Zloty,PLN,2.51,1.43,Poland
+Rupiah,IDR,2.53,1.33,Indonesia
+Yuan Renminbi,CNY,4.61,1.16,China
+Rupiah,IDR,4.25,2.31,Indonesia
+Euro,EUR,3.11,1.34,Portugal
+Rupee,LKR,2.44,1.86,Sri Lanka
+Euro,EUR,3.25,3.98,Finland
+Peso,PHP,2.79,3.65,Philippines
+Dinar,RSD,2.8,2.48,Serbia
+Yuan Renminbi,CNY,3.87,3.34,China
+Krona,SEK,2.26,3.16,Sweden
+Cordoba,NIO,2.09,1.31,Nicaragua
+Dinar,RSD,2.77,2.47,Serbia
+Yuan Renminbi,CNY,4.37,3.84,China
+Peso,PHP,3.3,3.02,Philippines
+Yuan Renminbi,CNY,4.14,1.73,China
+Naira,NGN,3.24,2.83,Nigeria
+Yuan Renminbi,CNY,4.3,1.52,China
+Euro,EUR,4.94,3.62,Portugal
+Kwacha,ZMW,2.98,1.09,Zambia
+Baht,THB,3.7,1.6,Thailand
+Koruna,CZK,4.2,1.08,Czech Republic
+Yen,JPY,2.57,2.84,Japan
+Peso,ARS,4.71,3.28,Argentina
+Lari,GEL,3.84,3.68,Georgia
+Bolivar,VEF,4.08,1.37,Venezuela
+Yuan Renminbi,CNY,2.41,3.06,China
+Ruble,RUB,2.36,2.25,Russia
+Yuan Renminbi,CNY,3.1,2.7,China
+Zloty,PLN,2.29,1.16,Poland
+Yuan Renminbi,CNY,4.61,3.13,China
+Yuan Renminbi,CNY,2.47,1.24,China
+Yuan Renminbi,CNY,3.35,1.74,China
+Euro,EUR,2.62,2.09,Portugal
+Euro,EUR,2.98,2.47,Netherlands
+Tugrik,MNT,4.32,3.83,Mongolia
+Yuan Renminbi,CNY,2.42,1.03,China
+Peso,PHP,4.61,1.78,Philippines
+Rupiah,IDR,2.38,1.47,Indonesia
+Yuan Renminbi,CNY,2.65,1.13,China
+Koruna,CZK,3.31,3.5,Czech Republic
+Rupiah,IDR,4.54,1.14,Indonesia
+Zloty,PLN,3.34,1.65,Poland
+Lek,ALL,4.3,3.98,Albania
+Ruble,RUB,4.26,1.5,Russia
+Yuan Renminbi,CNY,3.02,3.58,China
+Yuan Renminbi,CNY,4.06,1.21,China
+Rupiah,IDR,2.31,3.58,Indonesia
+Franc,XAF,4.08,2.26,Cameroon
+Yuan Renminbi,CNY,4.95,3.66,China
+Colon,CRC,4.22,2.44,Costa Rica
+Baht,THB,5.0,1.52,Thailand
+Yuan Renminbi,CNY,4.75,3.06,China
+Krona,SEK,3.91,3.61,Sweden
+Rupiah,IDR,4.98,1.29,Indonesia
+Rupiah,IDR,2.73,2.03,Indonesia
+Franc,XAF,4.83,2.91,Cameroon
+Sol,PEN,4.71,1.17,Peru
+Denar,MKD,4.36,4.0,Macedonia
+Rupiah,IDR,3.81,3.69,Indonesia
+Zloty,PLN,2.93,3.46,Poland
+Real,BRL,3.09,2.5,Brazil
+Real,BRL,3.22,1.59,Brazil
+Ruble,RUB,3.09,3.2,Russia
+Ariary,MGA,4.77,3.79,Madagascar
+Yuan Renminbi,CNY,2.92,2.29,China
+Euro,EUR,4.34,1.58,France
+Rupiah,IDR,4.33,3.83,Indonesia
+Baht,THB,2.05,1.69,Thailand
+Peso,ARS,2.96,1.28,Argentina
+Rupiah,IDR,4.47,3.29,Indonesia
+Peso,PHP,2.03,2.75,Philippines
+Peso,ARS,4.31,3.71,Argentina
+Euro,EUR,3.29,2.88,Portugal
+Yuan Renminbi,CNY,2.17,1.36,China

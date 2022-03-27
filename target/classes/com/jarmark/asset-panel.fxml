@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="470.0" prefWidth="673.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.jarmark.gui.AssetPanel">
+   <children>
+      <LineChart fx:id="priceChart" layoutX="1.0" layoutY="121.0" prefHeight="346.0" prefWidth="463.0" title="Asset price in time">
+        <xAxis>
+          <CategoryAxis label="time" side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis label="price" side="LEFT" />
+        </yAxis>
+      </LineChart>
+      <Label fx:id="assetDescription" layoutX="485.0" layoutY="133.0" text="Label" />
+      <Label fx:id="assetName" layoutX="314.0" layoutY="47.0" text="Label">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

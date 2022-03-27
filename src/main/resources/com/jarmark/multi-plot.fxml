@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.jarmark.gui.MultiPlot">
+   <children>
+      <ListView fx:id="assetsToPlotList" layoutX="38.0" layoutY="102.0" prefHeight="223.0" prefWidth="112.0" />
+      <LineChart fx:id="multipleAssetsPlot" layoutX="144.0" layoutY="64.0" prefHeight="298.0" prefWidth="423.0" title="multiple assets on percentage scale">
+        <xAxis>
+          <CategoryAxis label="time" side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis label="percentage" side="LEFT" />
+        </yAxis>
+      </LineChart>
+      <Label layoutX="37.0" layoutY="85.0" text="choose assets to plot" />
+   </children>
+</AnchorPane>

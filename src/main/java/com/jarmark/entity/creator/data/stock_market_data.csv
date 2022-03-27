@@ -1,0 +1,101 @@
+name,country,city,address,percentMargin,tradingCurrency
+NASDAQ,United Kingdom,London,53 Service Park,5.12,GBP
+EURONEXT,Russia,Staraya Stanitsa,18 Kensington Way,3.23,RUB
+EUROPREVIOUS,Ukraine,Turiys’k,9 Charing Cross Place,8.77,UAH
+VASD,Philippines,Isabela,3 Iowa Crossing,2.2,PHP
+BLABLA,Indonesia,Sungsang,2348 Logan Parkway,8.07,IDR
+NEXC,China,Dabao,9776 Monterey Center,2.71,CNY
+ECHAIX,China,Huolongmen,978 Dorton Plaza,5.24,CNY
+WOOB,France,Bastia,4 Everett Parkway,8.26,EUR
+TYON,China,Jinghai,15840 Sunfield Way,9.95,CNY
+OKON,Russia,Kuvshinovo,17707 Anzinger Way,4.03,RUB
+HOUD,United States,Houston,571 Graceland Pass,3.58,USD
+SFSD,Syria,Tallbīsah,0052 Stoughton Crossing,3.91,SYP
+XDDD,Portugal,Rio Covo ( Santa Eulália ),09410 Lawn Terrace,7.79,EUR
+OOPS,Greece,Káto Glikóvrisi,59 6th Circle,8.16,EUR
+NYSE,Indonesia,Kedungwringin,359 Oakridge Hill,7.28,IDR
+DALEJ NIE DZIAŁA,Germany,Hamburg,31028 Melby Street,8.76,EUR
+NASDAQ,Tunisia,El Ksour,80051 Derek Place,2.04,TND
+NASDAQ,Portugal,Cascais,227 Saint Paul Trail,1.13,EUR
+NASDAQ,China,Guanyinsi,513 Graceland Avenue,3.92,CNY
+NASDAQ,Japan,Sukagawa,02405 Donald Avenue,1.7,JPY
+NYSE,France,Guingamp,57 Grover Drive,9.35,EUR
+NASDAQ,Finland,Suodenniemi,5714 Buell Drive,9.32,EUR
+NYSE,El Salvador,Texistepeque,70644 Northland Hill,5.69,USD
+NYSE,Argentina,Arroyo Seco,71 Mosinee Lane,4.3,ARS
+NYSE,Mexico,Guadalupe,89362 Mcbride Alley,7.02,MXN
+NYSE,Philippines,Aras-asan,85 Fordem Terrace,1.35,PHP
+NYSE,Venezuela,El Cobre,14111 Union Circle,9.65,VEF
+NYSE,Cameroon,Lolodorf,7 Anniversary Parkway,6.46,XAF
+NASDAQ,China,Tiemen,8629 Cascade Street,2.43,CNY
+NYSE,Colombia,Jamundí,2 Prairie Rose Road,5.71,COP
+NASDAQ,China,Guzhen,858 Goodland Way,3.17,CNY
+NASDAQ,Ukraine,Baryshivka,9031 Randy Circle,4.44,UAH
+NYSE,Russia,Komsomol’skiy,558 Brentwood Place,8.97,RUB
+NASDAQ,Indonesia,Pulautemiang,7046 Oak Valley Park,8.36,IDR
+NYSE,Slovenia,Lukovica pri Domžalah,8527 Graedel Crossing,8.02,EUR
+NYSE,Czech Republic,Žihle,9913 Marcy Park,7.05,CZK
+NASDAQ,Syria,Ḩuraytān,2483 Farmco Road,9.47,SYP
+NYSE,Morocco,Sidi Qacem,2958 Harper Trail,2.77,MAD
+NYSE,China,Hulu,9181 Everett Junction,2.19,CNY
+NASDAQ,Portugal,Sabugueiro,6 Buhler Circle,8.78,EUR
+NYSE,Indonesia,Kebunan,1 Golden Leaf Court,1.93,IDR
+NASDAQ,South Africa,Muldersdriseloop,89535 Forest Run Way,1.61,ZAR
+NASDAQ,Nigeria,Abua,86 Straubel Drive,3.3,NGN
+NYSE,Poland,Chodów,638 Huxley Place,6.49,PLN
+NYSE,Trinidad and Tobago,Scarborough,02 Troy Crossing,2.53,TTD
+NYSE,Russia,Nizhniy Dzhengutay,33855 Sauthoff Crossing,5.65,RUB
+NYSE,South Africa,Benoni,07 North Trail,1.76,ZAR
+NYSE,Spain,Torrevieja,61710 Butternut Court,3.42,EUR
+NASDAQ,Indonesia,Permas,28551 Kingsford Avenue,4.59,IDR
+NASDAQ,Portugal,Vila Verde,4 Vermont Center,2.53,EUR
+NASDAQ,Afghanistan,Salām Khēl,8 Myrtle Avenue,1.99,AFN
+NYSE,Uganda,Kyenjojo,505 Muir Hill,7.37,UGX
+NASDAQ,Indonesia,Menara,49 New Castle Terrace,7.38,IDR
+NASDAQ,Bosnia and Herzegovina,Tešanj,26 Katie Street,8.01,BAM
+NASDAQ,Finland,Tammela,228 Schurz Circle,2.08,EUR
+NYSE,Russia,Serov,7208 Kingsford Court,7.93,RUB
+NYSE,Philippines,Isla,62 Northwestern Crossing,8.57,PHP
+NASDAQ,China,Yushu,415 Oriole Park,4.56,CNY
+NASDAQ,Argentina,Carlos Casares,58780 Eggendart Center,2.6,ARS
+NYSE,Indonesia,Duwakbuter,90028 Artisan Road,3.15,IDR
+NYSE,Netherlands,Haarlem,464 Utah Parkway,5.83,EUR
+NASDAQ,Zimbabwe,Masvingo,7 Acker Park,5.14,ZWL
+NASDAQ,Mexico,Santa Anita,6408 Gulseth Alley,9.72,MXN
+NYSE,Iran,Borūjen,99 Hagan Pass,2.01,IRR
+NYSE,China,Longbo,3 Toban Point,1.56,CNY
+NYSE,China,Taihu,6977 Mitchell Drive,1.38,CNY
+NYSE,Nigeria,Sabon Gari-Nangere,7 Farragut Plaza,2.45,NGN
+NYSE,Botswana,Bokaa,404 Main Drive,8.37,BWP
+NASDAQ,Brazil,Tefé,26 Hanson Crossing,7.42,BRL
+NYSE,Sweden,Tumba,9 1st Park,8.18,SEK
+NYSE,Russia,Prokhladnyy,90 West Terrace,4.2,RUB
+NASDAQ,China,Lijiang,0959 Fisk Parkway,3.65,CNY
+NASDAQ,China,Qiaole,5 Kennedy Court,7.73,CNY
+NYSE,Ukraine,Zhuravka,9666 Wayridge Way,2.86,UAH
+NASDAQ,Argentina,Los Juríes,3015 Russell Avenue,5.93,ARS
+NASDAQ,Serbia,Uzdin,9 7th Avenue,8.12,RSD
+NASDAQ,Brazil,Indaiatuba,64185 Thackeray Place,2.66,BRL
+NYSE,Cameroon,Tonga,71225 Dovetail Pass,1.82,XAF
+NYSE,Lebanon,Baabda,1363 Pawling Avenue,1.98,LBP
+NYSE,Czech Republic,Velká Polom,379 Almo Drive,5.7,CZK
+NYSE,China,Baoping,3 Waxwing Trail,4.91,CNY
+NYSE,Indonesia,Oro Timur,2 Mcbride Place,8.6,IDR
+NYSE,Ghana,Dome,568 School Point,4.07,GHS
+NYSE,China,Zhaowu,54 6th Plaza,2.54,CNY
+NASDAQ,Indonesia,Pontang Tengah,8 Lien Park,4.14,IDR
+NASDAQ,Poland,Dębno,37670 Muir Park,3.91,PLN
+NASDAQ,Russia,Siverskiy,83 Southridge Park,5.78,RUB
+NASDAQ,China,Golmud,74 Lakewood Gardens Center,8.47,CNY
+NYSE,China,Hezhi,596 Riverside Point,6.27,CNY
+NASDAQ,Japan,Gujō,875 Arrowood Center,8.87,JPY
+NASDAQ,China,Ligonggang,438 Anthes Lane,7.92,CNY
+NYSE,Sweden,Stockholm,8 Utah Junction,4.24,SEK
+NASDAQ,Ukraine,Sivers’k,795 Kim Parkway,6.16,UAH
+NYSE,China,Qingkenpao,5 Homewood Park,2.93,CNY
+NYSE,China,Anping,2137 Bellgrove Place,5.03,CNY
+NYSE,Indonesia,Krajan Timur Suger Kidul,54 Hazelcrest Junction,3.54,IDR
+NASDAQ,Greece,Naxos,61791 Norway Maple Center,3.19,EUR
+NASDAQ,France,Tours,4 Forest Dale Pass,6.36,EUR
+NYSE,Russia,Novokhovrino,42 Spohn Pass,7.01,RUB
+NYSE,China,Xinying,1402 Mandrake Circle,1.49,CNY
